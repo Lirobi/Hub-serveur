@@ -1,0 +1,5 @@
+name: Hub
+main: fr.lilianbischung.Hub
+version: 1.0
+commands:
+  fly:
